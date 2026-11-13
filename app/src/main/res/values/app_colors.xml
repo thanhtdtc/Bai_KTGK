@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_primary">#00796B</color>
+    <color name="app_bg">#F4F6F8</color>
+    <color name="app_border">#D9DEE3</color>
+    <color name="app_text">#1F2933</color>
+    <color name="app_gray">#6B7680</color>
+    <color name="app_red">#D32F2F</color>
+    <color name="app_orange">#EF6C00</color>
+    <color name="app_chip">#DDF1EE</color>
+    <color name="app_chip_warn">#FDE7E7</color>
+    <color name="app_chip_mid">#FFF0D9</color>
+    <color name="app_chip_gray">#ECEFF1</color>
+</resources>
